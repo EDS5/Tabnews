@@ -1,2 +1,2 @@
 # Tabnews
-Material e exercícios realizados no curso.dev
+Material e exercícios realizados no curso.dev 2026
